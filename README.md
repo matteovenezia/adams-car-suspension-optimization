@@ -35,6 +35,8 @@ The project consists of three main phases:
 
 The handling analyses were repeated for different combinations of vehicle speed and steering angle. The figures below present the results corresponding to the most demanding test conditions.
 
+---
+
 ### Suspension optimization and validation
 
 Optimization of the front and rear suspension hardpoints using sensitivity analyses and DOE, followed by validation of the optimized suspension kinematics through PWT and OWT analyses.
@@ -47,6 +49,7 @@ Optimization of the front and rear suspension hardpoints using sensitivity analy
 
 The optimized full-vehicle model was evaluated through standard transient handling manoeuvres to assess its dynamic response under different operating conditions.
 
+
 #### Step Steer
 
 Transient handling response during Step Steer manoeuvres performed at different vehicle speeds.
@@ -56,6 +59,7 @@ Transient handling response during Step Steer manoeuvres performed at different 
 <img width="1415" height="464" alt="2_step_60_pac89" src="https://github.com/user-attachments/assets/ed40ebea-0c0f-41c4-bc6d-605edd958e59" />
 
 <img width="1164" height="497" alt="3_step_60_pac89" src="https://github.com/user-attachments/assets/6fe36b79-4123-4906-884f-ec4e9f8f1df1" />
+
 
 #### Single Lane Change
 
