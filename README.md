@@ -33,7 +33,7 @@ The project consists of three main phases:
 - **Vehicle handling analysis:** evaluation of the optimized full-vehicle model through standard transient handling manoeuvres.
 - **Tyre model comparison:** assessment of the influence of different tyre models on the predicted vehicle dynamic response.
 
-The following figures summarize the main project results.
+The handling analyses were repeated for different combinations of vehicle speed and steering angle. The figures below present the results corresponding to the most demanding test conditions.
 
 ### Suspension optimization and validation
 
