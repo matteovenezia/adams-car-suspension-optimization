@@ -1,2 +1,44 @@
-# adams-car
-Suspension kinematics optimization and full-vehicle handling analysis developed in MSC Adams Car.
+# Suspension Optimization and Vehicle Handling (MSC Adams Car)
+
+MSC Adams Car project developed to optimize suspension kinematics and evaluate the handling behaviour of a full-vehicle model.
+
+The project combines suspension hardpoint optimization through sensitivity analyses and Design of Experiments (DOE) with transient handling simulations to assess vehicle dynamic performance.
+
+## Main features
+
+- Front suspension kinematic optimization
+- Rear suspension kinematic optimization
+- Hardpoint sensitivity analysis
+- Design of Experiments (DOE)
+- Parallel Wheel Travel (PWT)
+- Opposite Wheel Travel (OWT)
+- Full-vehicle assembly
+- Step Steer analysis
+- Single Lane Change analysis
+- PAC89 and PAC2002 tyre model comparison
+
+## Project documentation
+
+The complete project report describing the optimization process, vehicle model and handling analyses is available in the PDF below.
+
+[Suspension Optimization and Handling Analysis_AdamsCar.pdf](https://github.com/user-attachments/files/30301268/Suspension.Optimization.and.Handling.Analysis_AdamsCar.pdf)
+
+---
+
+## Project results
+
+The project consists of three main phases:
+
+- **Suspension optimization:** sensitivity analysis and Design of Experiments (DOE) to improve suspension kinematic behaviour.
+- **Suspension validation:** Parallel Wheel Travel (PWT) and Opposite Wheel Travel (OWT) analyses of the optimized suspension geometry.
+- **Vehicle handling analysis:** evaluation of the optimized full vehicle through standard transient manoeuvres.
+
+The following figures summarize the main project results:
+
+- **Suspension optimization:** optimization of front and rear suspension hardpoints using sensitivity analyses and DOE.
+- **Suspension validation:** comparison of suspension kinematic characteristics before and after optimization.
+- **Step Steer:** transient handling response of the optimized full vehicle.
+- **Single Lane Change:** vehicle response during a standard ISO lane-change manoeuvre.
+- **Tyre model comparison:** comparison between PAC89 and PAC2002 tyre models.
+
+[images]
